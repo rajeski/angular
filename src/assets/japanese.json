@@ -1,0 +1,44 @@
+[
+    {
+      "label": "What is What in Japanese?",
+      "choices": [
+        {
+          "value": "Nani",
+          "correct": true
+        },
+        {
+          "value": "Arigato",
+          "correct": false
+        },
+        {
+          "value": "Doei",
+          "correct": false
+        },
+        {
+          "value": "So de ne",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "label": "What is one way to say Goodbye in Japanese?",
+      "choices": [
+        {
+          "value": "Ichi",
+          "correct": false
+        },
+        {
+          "value": "Hai",
+          "correct": false
+        },
+        {
+          "value": "Ja matta",
+          "correct": true
+        },
+        {
+          "value": "Ohayo",
+          "correct": false
+        }
+      ]
+    }
+  ]
